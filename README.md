@@ -1,4 +1,4 @@
-Part of example hosted here:
+Part of example hosted here: https://blog.karmacomputing.co.uk/understanding-kubernetes/
 
 # Create an deploy a helloWorld
 
