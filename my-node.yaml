@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: my-node
+  namespace: default
+spec:
+  containers:
+  - name: mynode
+    image: 127.0.0.1:32000/mynode:testlocal
+    imagePullPolicy: Always
+  restartPolicy: Always
